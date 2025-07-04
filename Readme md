@@ -1,0 +1,46 @@
+# Product Sales Dashboard (Tableau)
+
+This project is a Tableau dashboard built to analyze sales data across different countries, products, and salespersons. It provides a clear, visual summary of business performance to help understand key trends and identify top-performing areas.
+
+## 🔍 Key Insights
+
+- Sales performance by **country**
+- Number of **boxes shipped** by product
+- Monthly **sales trends** over time
+- Sales contribution of each **salesperson**
+
+The goal is to bring clarity to raw data through simple and interactive visualizations.
+
+## 📁 What's Inside
+
+| File Name | Description |
+|------------------------|---------------------------------------|
+| `product_sales.twbx` | Tableau workbook (packaged) |
+| `dashboard_preview.png`| Preview of the final dashboard layout |
+| `README.md` | Project details and structure |
+
+## ⚙️ Tools Used
+
+- Tableau Desktop
+- Excel (Data preparation)
+
+## 🎯 Who It's For
+
+This dashboard can be useful for:
+- Business analysts and managers
+- Stakeholders tracking sales performance
+- Anyone learning Tableau through practical projects
+
+## 🖼️ Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+## 📝 How to Use
+
+1. Download the `.twbx` file
+2. Open it in Tableau Desktop
+3. Interact with filters to explore product-wise or country-specific sales
+
+---
+
+> This project is part of my data analytics portfolio. Feedback is always welcome
